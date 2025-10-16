@@ -1,0 +1,1 @@
+python C:\MIND\MIND\MIND_python\MIND.py C:\MIND\MIND_reports\columbia_suicide_5_screening_sample_report

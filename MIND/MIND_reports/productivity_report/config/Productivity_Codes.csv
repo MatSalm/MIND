@@ -1,0 +1,29 @@
+﻿role,service_code,cpt_code,cost_of_service,description,value
+THERAPIST,90791,90791,250.00,Psychiatric diagnostic evaluation,1
+THERAPIST,9083X,90832,140.00,Psychotherapy,0.5
+THERAPIST,9083A,90833,130.00,Psychotherapy 30 minutes W/E&M (Add E&M),0.5
+THERAPIST,9083X,90834,175.00,Psychotherapy 38-52 minutes with patient,0.75
+THERAPIST,9083A,90836,160.00,Psychotherapy 45 minutes W/E&M (Add E&M),0.75
+THERAPIST,9083X,90837,250.00,"""Psychotherapy 53+ minutes with patient""",1
+THERAPIST,9083X,90838,300.00,"""Psychotherapy 60 minutes W/E&M (Add E&M)""",1
+THERAPIST,90839,90839,235.00,Psychotherapy for crisis; first 30-74 minutes,1
+THERAPIST,90846,90846,170.00,"Family psychotherapy 50 mins (w/o patient), 26-79 min",1
+THERAPIST,90839,90839,235.00,Psychotherapy for crisis Crisis Psychotherapy (First 30-74 Mins),1
+THERAPIST,90840CR,90840,115.00,Psychotherapy for crisis,0.5
+THERAPIST,90840,90840,115.00,Psychotherapy for crisis Crisis Psychotherapy Add-On 30 add'l mins,0.5
+PRESCRIBER,90791,90791,250.00,Psychiatric diagnostic evaluation,1
+PRESCRIBER,90792,90792,360.00,Psychiatric diagnostic evaluation with medical services,1
+PRESCRIBER,96372,96372,90.00,Injection; subcutaneous or intramuscular,0
+PRESCRIBER,99204F,99204,340.00,New Patient Comprehensive (45-59 Min),1
+PRESCRIBER,99204TH,99204,340.00,New Patient Comprehensive (45-59 Min),1
+PRESCRIBER,99205F,99205,400.00,New Patient High (60-74 Min),1
+PRESCRIBER,99205TH,99205,400.00,New Patient High (60-74 Min),1
+PRESCRIBER,99212F,99212,90.00,Established Patient Minor (10-19 Min) - or unfilled crisis,0.17
+PRESCRIBER,99212TH,99212,90.00,Established Patient Minor (10-19 Min) - or unfilled crisis,0.17
+PRESCRIBER,99213F,99213,150.00,Established Patient Low (20-29 Min),0.33
+PRESCRIBER,99213TH,99213,150.00,"""Established Patient Low (20-29 Min)""",0.33
+PRESCRIBER,99214F,99214,200.00,Established Patient Moderate (30-39 Min),0.33
+PRESCRIBER,99214TH,99214,200.00,Established Patient Moderate (30-39 Min),0.33
+PRESCRIBER,99215F,99215,250.00,"""Established Patient High (40-54 Min)""",0.67
+PRESCRIBER,99215TH,99215,250.00,"""Established Patient High (40-54 Min)""",0.67
+PRESCRIBER,Q3014,Q3014,0.00,Telehealth originating site facility fee,0

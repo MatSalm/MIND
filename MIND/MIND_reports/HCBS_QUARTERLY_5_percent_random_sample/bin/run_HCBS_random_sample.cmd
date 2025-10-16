@@ -1,0 +1,1 @@
+python C:\MIND\MIND\MIND_python\MIND.py C:\MIND\MIND_reports\HCBS_QUARTERLY_5_percent_random_sample
